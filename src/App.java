@@ -1,7 +1,7 @@
 
 /*
  * Tarea 2 Diseño de software
- * Author: Ricardo Reyes Balam Cupul
+ * Author: Ricardo B
  */
 import java.util.Scanner;
 import org.fusesource.jansi.Ansi;
