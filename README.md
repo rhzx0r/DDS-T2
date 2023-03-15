@@ -5,7 +5,7 @@ ADA 2 de la materia de Diseño de Software. Implementacion de un programa en lin
 Iniciar el programa con 
 
 ```
-javac app.java
+javac App.java
 
-java app
+java App
 ```
