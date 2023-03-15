@@ -9,3 +9,11 @@ javac App.java
 
 java App
 ```
+
+Si desea agregar un nuevo usuario y contraseña al CSV utilice los siguientes comandos:
+
+```
+javac GenerarUsuario.java
+
+java GenerarUsuario
+```
